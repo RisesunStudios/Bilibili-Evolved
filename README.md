@@ -129,16 +129,6 @@ UWP 版 Edge 已经不再支持了(就是 Windows 10 自带的那个), 请使用
 
 **喜欢的话就点个⭐Star吧(°∀°)ﾉ**
 
-**或者也可以考虑[捐助](donate.md)支持一下哦(｀・ω・´)**
-
-支付宝
-
-<img alt="支付宝" src="https://cdn.jsdelivr.net/gh/the1812/Bilibili-Evolved@preview/images/compressed/alipay.jpg" height="200">
-
-微信
-
-<img alt="微信" src="https://cdn.jsdelivr.net/gh/the1812/Bilibili-Evolved@preview/images/compressed/wechat.jpg" height="200">
-
 ----
 
 # 我写的其他一些玩意
